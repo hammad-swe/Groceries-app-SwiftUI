@@ -14,7 +14,7 @@ struct HomeView: View {
         VStack{
             Image("carrotred")
             HStack{
-                Image(systemName: "location")
+                Image(systemName: "location.fill")
                 Text("Islamabad, Pakistan")
             }
         }
