@@ -65,7 +65,6 @@ struct HomeView: View {
                     VStack{
                         HStack{
                             Card()
-                            Card()
                         }
                     }
                 }
